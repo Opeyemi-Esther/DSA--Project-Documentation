@@ -1,2 +1,2 @@
-# DSA-Documentation---1St
-This is where i start my first Portfolio, with Digital Skill - Up Africal 
+# DSA-Documentation - 1St
+This is where i start my first Portfolio, with Digital Skill -
